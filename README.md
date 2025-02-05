@@ -1,3 +1,3 @@
 # demo-1
 my first repo<br>
-author=sudhakar
+author=sudhakar (wizard)
